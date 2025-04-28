@@ -1,5 +1,5 @@
 # _Hospital_ER_Analysis_BI_Dashboard_
-![Hospital_ER](https://github.com/user-attachments/assets/4b0446d3-8e4b-4731-82c7-fae2e87b1e4b)
+![Hospital_ER](https://github.com/user-attachments/assets/15fe19dd-8933-4cb9-8f8c-c9f3d73b3805)
 
 ## Overview
 This project presents a **Power BI dashboard** focused on **Hospital Emergency Room Analysis**, offering valuable insights into emergency room operations, patient demographics, and service efficiency. The dashboard highlights key metrics such as patient admission trends, average wait times, satisfaction scores, and departmental referrals, enabling healthcare providers to better understand patient flow and operational challenges. By analyzing these patterns across different time frames and demographics, stakeholders can enhance staffing strategies, optimize resource allocation, and improve patient care quality. Additionally, the dashboard empowers decision-makers to monitor performance trends, identify bottlenecks, and implement data-driven improvements for a more efficient emergency room experience.
