@@ -1,4 +1,4 @@
-# _Hospital_ER_Analysis_BI_Dashboard_
+# _Hospital ER Analysis BI Dashboard_
 ![Hospital_ER](https://github.com/user-attachments/assets/15fe19dd-8933-4cb9-8f8c-c9f3d73b3805)
 
 ## Overview
